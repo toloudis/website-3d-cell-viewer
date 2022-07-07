@@ -1,0 +1,1 @@
+export default __webpack_public_path__ + "imageviewer/font/merriweather-sans-v9-latin-700.woff2";
